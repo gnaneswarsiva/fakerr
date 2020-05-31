@@ -1,4 +1,5 @@
 # faker.js - generate massive amounts of fake data in the browser and node.js
+# this is second line in faker.js 
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
 
